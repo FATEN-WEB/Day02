@@ -1,0 +1,11 @@
+# coding=utf-8
+print("Moi je m'appelle 'Lolita'")
+print("Lo ou bien Lola, du pareil au même") 
+print ("Moi je m'appelle 'Lolita'")
+print ("Quand Je rêve aux loups, c'est Lola qui saigne")
+print ("[...]")
+print ("c'est pas ma faute")
+print ("Et quand je donne ma langue aux chats je vois les autres")
+print ("Tout prêts à se jeter sur moi, c'est pas ma faute à moi")
+print ("si j'entends tout autour de moi")
+print ("L.O.L.I.T.A, moi 'Lolita")
